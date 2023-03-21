@@ -1,8 +1,9 @@
 #include "main.h"
 	/**
 	 * main - Entry point
+	 * 
 	 * is written by Phil
-	 * Return: 0
+	 * Return: Always 0 (Success)
 	 */
 
 
