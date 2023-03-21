@@ -1,6 +1,6 @@
 #include "main.h"
 	/**
-	 * main: print _putchar
+	 * main - Entry point
 	 * is written by Phil
 	 * Return: 0
 	 */
